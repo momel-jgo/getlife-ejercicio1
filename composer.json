@@ -1,0 +1,16 @@
+{
+    "name": "vaamo/ejercicio_1",
+    "description": "Ejercicio 1 de la prueba t\u0000cnica de GetLife",
+    "authors": [
+        {
+            "name": "Rodrigo Vaamonde",
+            "email": "vaamonde.rodri@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "lib\\": "lib"
+        }
+    }
+}
